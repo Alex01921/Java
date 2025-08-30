@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Demo {
+public class TwoNumadd {
 	public static void main(String[] args) {
 		int a;
 		int b;
